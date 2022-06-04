@@ -1,1 +1,1 @@
-### Простая fullstack авторизация с использованием jsonwebtoken - JWT
+### Fullstack авторизация с использованием jsonwebtoken - JWT
